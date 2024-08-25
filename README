@@ -1,0 +1,6 @@
+How can I ensure that my code, program, or software is functional and secure?
+  One of the best ways to test that your code is fucntional is to make sure that you are testing throughout the development process and not to just test the final product. This can help when it comes to debugging errors that are found when everything is put together to make a final product.
+How do I interpret user needs and incorporate them into a program?
+  One of the best was to interperate user needs is by taking the list of requirments for the software that are provided and relating them to products or applications that you already sue and try to implement those requirements in similar ways to better help learn to develop useful features and ones that are also tried and tested by large scale user bases.
+How do I approach designing software?
+  One of the better ways that I have come to approach designing software is to take all of the listed features that the software that is intended to do and decide how they need to connect and what possible restricitons that need to be implemented to these features so they can be placed early in development as oppose to trying to squeeze them in late in development, possibly introducing new errors that did not appear previously.
